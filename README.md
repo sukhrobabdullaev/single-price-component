@@ -1,0 +1,1 @@
+# single-price-component
